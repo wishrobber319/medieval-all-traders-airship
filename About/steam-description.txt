@@ -1,0 +1,11 @@
+[b]Every trader arrives by air.[/b] Medieval Trader Airships brings orbital traders down as landing airships, but faction trade caravans still walk in on foot. This companion patch finishes the job: when a faction would send a trade caravan, an airship descends instead, stocked with that faction's own goods.
+
+[hr][/hr]
+[b]What's inside[/b]
+[list]
+[*][b]Caravans become airships.[/b] Ground trade caravans arrive as landing airships carrying the same faction stock.
+[*][b]Trade like an orbital.[/b] Deal with the landed ship directly, no comms console or trade beacon required.
+[*][b]Reuses the existing airship.[/b] It borrows Medieval Trader Airships' own ship, so it fits right in.
+[*][b]Safe and self-disabling.[/b] Add or remove it any time, and if Medieval Trader Airships isn't loaded it quietly does nothing.
+[*][b]Requires Medieval Trader Airships and Harmony.[/b]
+[/list]
