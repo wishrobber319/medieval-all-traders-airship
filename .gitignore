@@ -4,3 +4,6 @@
 .vs/
 *.user
 *.suo
+
+# SDK preview staging
+About/.steam-preview.jpg
