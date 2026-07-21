@@ -3,11 +3,7 @@
     <packageId>wishRobber.alltradersairship</packageId>
     <name>All Traders Arrive by Airship</name>
     <author>wishRobber</author>
-    <description>Every trader arrives by airship. Medieval Trader Airships brings orbital traders down as landing airships, but faction trade caravans still walk in on foot with pack animals - so this companion patch finishes the job: when a faction would send a trade caravan, an airship descends instead, stocked with that faction's own caravan goods. Together, every merchant that visits your medieval colony now arrives by air.
-
-You trade with the landed airship exactly like an orbital one - no comms console or trade beacon needed. It reuses Medieval Trader Airships' own ship, so it fits right in; if that mod isn't loaded this quietly does nothing and normal walking caravans return.
-
-Requires Medieval Trader Airships (and Harmony). The airship is a trade ship, so there are no escort pawns or other walking-caravan extras. A pure compatibility patch - no new items or defs - and safe to add to or remove from a save at any time. A clean immersion upgrade for any medieval or fantasy RimWorld playthrough.</description>
+    <description>Every trader arrives by airship. Medieval Trader Airships brings orbital traders down as landing airships, but faction trade caravans still walk in on foot with pack animals - so this companion patch finishes the job: when a faction would send a trade caravan, an airship descends instead, stocked with that faction's own caravan goods. Together, every merchant that visits your medieval colony now arrives by air.</description>
     <supportedVersions>
         <li>1.6</li>
     </supportedVersions>
